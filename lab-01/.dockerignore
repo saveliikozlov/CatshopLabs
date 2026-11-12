@@ -1,0 +1,7 @@
+compose.yaml
+*.md
+init-db/
+partner/
+.env
+.env.*
+.venv/
