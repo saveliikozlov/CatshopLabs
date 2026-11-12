@@ -5,3 +5,4 @@ partner/
 .env
 .env.*
 .venv/
+.git
