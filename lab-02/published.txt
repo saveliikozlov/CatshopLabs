@@ -1,0 +1,1 @@
+ghcr.io/saveliikozlov/catshoplabs-lab-02@sha256:23ab5e757bef1e69897bc650c4b2455a8be31be37536ebdbc34c61ca0e8a56ed
